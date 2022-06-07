@@ -1,0 +1,6 @@
+restgo\constants\Path.class
+restgo\utils\TestUtils.class
+restgo\info\GoRestSteps.class
+restgo\constants\EndPoint.class
+restgo\model\Pojo.class
+restgo\utils\PropertyReader.class
